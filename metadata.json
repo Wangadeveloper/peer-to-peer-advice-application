@@ -1,0 +1,8 @@
+{
+  "name": "BizNexus",
+  "description": "A peer-to-peer community platform for small enterprise owners to share business stories and advice via video and text, powered by AI classification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
